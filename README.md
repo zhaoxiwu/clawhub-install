@@ -1,3 +1,7 @@
 # clawhub-install
 
 cd  /root/.openclaw/workspace/skills/ && git clone https://github.com/zhaoxiwu/clawhub-install.git
+
+or
+
+cd /root/.openclaw/workspace/skills/ && mkdir clawhub-install && wget https://github.com/zhaoxiwu/clawhub-install/archive/refs/heads/main.zip && unzip main.zip
