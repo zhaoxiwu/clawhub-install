@@ -1,0 +1,12 @@
+{
+  "name": "clawhub-install",
+  "version": "1.0.0",
+  "description": "从 ClawHub 安装 skill",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
