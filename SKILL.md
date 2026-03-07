@@ -1,5 +1,5 @@
 ---
-name: claw-skill-install
+name: skill-install
 description: 从 ClawHub 安装 skill。用户输入 ClawHub 上的 skill 主页 URL（如 https://clawhub.ai/evgyur/crypto-price），自动解析下载链接，下载 zip 包并解压到 ~/.openclaw/workspace/skills/ 目录。
 metadata:
   {
